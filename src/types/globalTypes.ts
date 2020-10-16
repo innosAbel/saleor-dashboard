@@ -88,6 +88,7 @@ export enum AttributeSortField {
 }
 
 export enum AttributeTypeEnum {
+  PAGE = "PAGE",
   PRODUCT = "PRODUCT",
   VARIANT = "VARIANT",
 }
