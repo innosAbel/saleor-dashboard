@@ -53,6 +53,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fix style of product type attributes empty table - #744 by @orzechdev
 - Fix order draft back button redirect - #753 by @orzechdev
 - Add manage product types and attributes permission - #768 by @orzechdev
+- Add metadata editor to page views - #782 by @dominik-zeglen
 
 ## 2.10.1
 
